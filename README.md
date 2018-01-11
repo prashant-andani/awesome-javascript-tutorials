@@ -1,15 +1,35 @@
-# Awesome Javascript Videos
+## Curated List of Javascript Tutorials
 
-This repo consists of one of the best videos(talks) on Javascript ever.
+### Basics
 
-* [Javascript Essentials (Revised)](https://www.youtube.com/watch?v=HbgRFH9BAy0&list=PLGGplCo91y8u9LGMeqGt1wEEQ_LtEnaJC&index=6)
+#####  Closures	
 
-* [Javascript Closure tutorial ( Closures Explained )](https://www.youtube.com/watch?v=71AtaJpJHw0)
+| Title                                    | Tutor Type |
+| ---------------------------------------- | ---------- |
+| [Closures Basics](https://www.youtube.com/watch?v=71AtaJpJHw0) | Video      |
+| [Practical Uses for Closures](https://medium.com/written-in-code/practical-uses-for-closures-c65640ae7304) | Article    |
+| [Mastering the Javascript Interview: What is closure](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36) | Article    |
+| [Prototypes](https://www.youtube.com/watch?v=riDVvXZ_Kb4) | Video      |
+|                                          |            |
 
-* [Resuable javascript](https://www.youtube.com/watch?v=L-fx2xXSVso)
+##### Functional Programming
 
-* [JavaScript in 2017: You might (not) need a framework - David Vujic](https://www.youtube.com/watch?v=dGws1pMWzCI)
+| Title                                    | Tutor Type |
+| ---------------------------------------- | ---------- |
+| [Mastering the Javascript Interview: What is functional programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0) | Video      |
+| [Higher Order Functions](https://www.youtube.com/watch?v=BMUiFMZr7vk) | Video      |
+| [Reduce Basics](https://www.youtube.com/watch?v=Wl98eZpkp-c) | Video      |
+| [Reduce Advanced](https://www.youtube.com/watch?v=1DMolJ2FrNY) | Video      |
+| [Map](https://www.youtube.com/watch?v=bCqtb-Z5YGQ) | Video      |
+| [Currying](https://www.youtube.com/watch?v=iZLP4qOwY8I) | Video      |
 
-* [The Definitive Guide to Object-Oriented JavaScript](https://www.youtube.com/watch?v=PMfcsYzj-9M)
+##### ES6
 
-* [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A)
+| Title                                    | Tutor Type |
+| ---------------------------------------- | ---------- |
+| [var, let and const - What, why and how](https://www.youtube.com/watch?v=sjyJBL5fkp8) | Video      |
+| [Arrow Functions](https://www.youtube.com/watch?v=6sQDTgOqh-I) | Video      |
+| [Destructing](https://www.youtube.com/watch?v=PB_d3uBkQPs) | Video      |
+| [Generators](https://www.youtube.com/watch?v=ategZqxHkz4) | Video      |
+| [Async - Wait](https://www.youtube.com/watch?v=568g8hxJJp4) | Video      |
+| [Currying](https://www.youtube.com/watch?v=iZLP4qOwY8I) | Video      |
